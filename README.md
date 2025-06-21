@@ -10,7 +10,7 @@
 
 **一键导出飞书文档，告别复制粘贴的烦恼！**
 
-[📥 立即安装](https://chromewebstore.google.com/detail/cfenjfhlhjpkaaobmhbobajnnhifilbl) | [📖 使用教程](#使用教程) | [💬 用户群组](#用户支持)
+[📥 立即安装](https://chromewebstore.google.com/detail/cfenjfhlhjpkaaobmhbobajnnhifilbl) 
 
 </div>
 
